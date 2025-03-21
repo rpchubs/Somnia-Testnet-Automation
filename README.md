@@ -59,7 +59,7 @@ nano contractERC20.txt   # (Optional) Deployed contract addresses
 #### 4️⃣ Run the bot
 Launch the automation script.
 ```bash
-python main.py
+python3 main.py
 ```
 
 ### 🪟 Windows
